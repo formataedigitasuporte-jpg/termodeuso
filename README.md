@@ -1,4 +1,4 @@
-# termodeuso
+# Termo de uso
 TERMO DE USO FORMATA E DIGITA
 <!DOCTYPE html>
 <html lang="pt-BR">
